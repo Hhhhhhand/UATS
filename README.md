@@ -1,6 +1,6 @@
 ### Prepare dataset
 ```
-The data set is in json format, as shown in data/assist2009.json.Update information in utils/configuration.py if other data sets are used
+The data set is in json format, as shown in data/assist2009.json. Update information in utils/configuration.py if other data sets are used
 ```
 ### Training
 ```
